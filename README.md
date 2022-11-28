@@ -5,5 +5,8 @@ Repositório para armazenar os artefatos do Pipeline utilizando Modern Data Stac
 Tarefas:
 
 Infraestrutura:
--Setup de ambiente de Desenvolvimento
--Setar as permissões do GitPod ao repositório GitHub.
+-Setup de ambiente de Desenvolvimento. X
+-Setar as permissões do GitPod ao repositório GitHub. X
+-Subir Airbyte via Docker. X
+-Subir Airbyte via Docker. X
+-Subir Metabase via Docker. X
